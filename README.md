@@ -3,7 +3,8 @@
 [![Website](https://img.shields.io/website?label=harshita-portfolio&style=for-the-badge&url=https%3A%2F%2Fharshitagupta.netlify.app)](https://harshitagupta.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Harshita16Gupta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHarshita16Gupta&screen_name=Harshita16Gupta)
 
-## I'm a Web Developer !!
+## I'm a Web Developer !! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=HarshitaGupta16-.HarshitaGupta16)
+
 
 - 🔭 I'm looking forward to explore the world of Front-End Web development. 
 - 🌱 I’m currently learning JavaScript, ReactJS.
